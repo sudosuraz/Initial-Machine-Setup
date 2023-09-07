@@ -1,6 +1,12 @@
 # Initial-Machine-Setup
 auhhh, I dont remember all the stuff I need to setup all the time whenever my kali crashes and I need it to re-install from scratch, this repo is just like to-do for me.
 
+## GNOME
+### after installing the GNOME, the Top Bar sucks, I need it hide automatcally!!!
+(hide-top-bar)[https://extensions.gnome.org/extension/545/hide-top-bar/]
+
+
+
 # Error Solution
 # sudo apt update sucks!!!
 
