@@ -3,7 +3,7 @@ auhhh, I dont remember all the stuff I need to setup all the time whenever my ka
 
 ## GNOME
 ### after installing the GNOME, the Top Bar sucks, I need it hide automatcally!!!
-(hide-top-bar)[https://extensions.gnome.org/extension/545/hide-top-bar/]
+[hide-top-bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
 
 
 
