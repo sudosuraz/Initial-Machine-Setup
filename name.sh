@@ -16,3 +16,4 @@ ${GR}|___/ \__,_| \__,_| \___/ |___/ \__,_||_|   \__,_|| |${NL}
 ${GR}                                                 _/ |${NL}
 ${GR}                                                |__/ ${NL}
 "
+echo -e "This script is made by ${GR}sudosuraj${NL}"
